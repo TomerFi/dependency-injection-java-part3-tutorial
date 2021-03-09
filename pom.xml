@@ -9,7 +9,7 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <name>dependency-injection-java-part2-tutorial</name>
-  <url>https://portfolio.tomfi.info/tutorials.html</url>
+  <url>https://github.com/TomerFi/dependency-injection-java-part3-tutorial</url>
   <description>Dependency Injection in Java is easy - Part 3 - Leveraging with Spring Context</description>
 
   <properties>
