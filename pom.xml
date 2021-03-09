@@ -7,7 +7,6 @@
   <groupId>info.tomfi.tutorials</groupId>
   <artifactId>dependency-injection-java-part3-tutorial</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
   <name>dependency-injection-java-part2-tutorial</name>
   <url>https://github.com/TomerFi/dependency-injection-java-part3-tutorial</url>
   <description>Dependency Injection in Java is easy - Part 3 - Leveraging with Spring Context</description>
@@ -21,21 +20,10 @@
 
   <developers>
     <developer>
-      <id>tomerfi</id>
-      <name>Tomer Figenblat</name>
-      <email>tomer.figenblat@gmail.com</email>
+      <id>TomerFi</id>
       <url>https://github.com/TomerFi</url>
-      <roles>
-        <role>Software developer</role>
-      </roles>
-      <timezone>Asia/Jerusalem</timezone>
     </developer>
   </developers>
-
-  <scm>
-    <url>https://github.com/TomerFi/dependency-injection-java-part3-tutorial</url>
-    <connection>scm:git:https://github.com/TomerFi/dependency-injection-java-part3-tutorial.git</connection>
-  </scm>
 
   <dependencies>
     <dependency>
