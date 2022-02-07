@@ -3,6 +3,8 @@ title: Dependency Injection in Java is easy - Part 3 - Leveraging with Spring Co
 published: true
 description: This is a series of posts simplifying and exemplifying Dependency Injection in Java.
 tags: ["java", "programming", "tutorial", "code"]
+cover_image: https://source.unsplash.com/AaEQmoufHLk
+series: Dependency Injection in Java is easy
 ---
 
 ## Part 3 - Spring Context
