@@ -29,12 +29,12 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>5.2.8.RELEASE</version>
+      <version>6.1.14</version>
     </dependency>
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>29.0-jre</version>
+      <version>32.0.0-jre</version>
     </dependency>
     <dependency>
       <groupId>org.assertj</groupId>
